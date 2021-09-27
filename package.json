@@ -1,0 +1,15 @@
+{
+  "name": "dmit2008esm",
+  "version": "1.0.0",
+  "description": "basic starter framework for using es modules in the browser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fahim Ahmed Shyan",
+  "license": "ISC",
+  "devDependencies": {
+    "http-serve": "^1.0.1",
+    "parcel": "^2.0.0-rc.0",
+    "sass": "^1.42.1"
+  }
+}
